@@ -1,7 +1,7 @@
-# Toad Competitive Naivete paper 2021
+# Toad Competitive Naivete paper 2022
 
 ## Data availability
- Data will be made available Feb 2022 from the UBC data repository.
+ Data will be made available Feb 2024 from the UBC data repository.
  
 ## R code
 
